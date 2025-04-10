@@ -1,0 +1,628 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Mono Tees",
+      "price": 35,
+      "images": [
+        "https://darkaesthetic.store/cdn/shop/files/FINAL_T-SHIRT_MOCKUP-TAHIROVIC_AHMED3_3de5cac9-fe9f-440e-9e79-2ecef02de7e7.png?v=1731466444&width=1920",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": true,
+      "category": "T-shirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Monochromatic Wardrobe",
+      "price": 59.99,
+      "images": [
+        "/src/assets/camiseta2.png",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "T-shirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Essential Neutrals",
+      "price": 99.99,
+      "images": [
+        "/src/assets/camiseta3.png",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "T-shirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "UTRAANET Black",
+      "price": 19.99,
+      "images": [
+        "/src/assets/camiseta4.png",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "T-shirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Elegant Ebony Sweatshirts",
+      "price": 9.99,
+      "images": [
+        "/src/assets/camiseta5.png",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "Sweatshirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sleek and Cozy Black",
+      "price": 14.99,
+      "images": [
+        "https://darkaesthetic.store/cdn/shop/files/FINAL_T-SHIRT_MOCKUP-TAHIROVIC_AHMED5_82b30280-4618-44ae-909e-e34f35867689.png?v=1731465826&width=823",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": true,
+      "category": "Sweatshirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Raw Black Tees",
+      "price": 49.99,
+      "images": [
+        "https://darkaesthetic.store/cdn/shop/files/FINAL_T-SHIRT_MOCKUP-TAHIROVIC_AHMED_ac51f6cf-00a9-4f28-b6d1-9062afaf6637.png?v=1721645047&width=823",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": true,
+      "category": "T-shirt",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Black XS",
+      "price": 49.99,
+      "images": [
+        "https://cdn.vnda.com.br/dolcevitaperfumes/2021/12/18/15_12_0_083_BlackXSPacoRabanneEaudeToilettePerfumeMasculino100ml1.jpg?v=1639851660",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "Perfume",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Cap",
+      "price": 49.99,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_Ng6CP_zO-QpbDIeEJqyhwHhePSatGrshw&s",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": false,
+      "category": "Cap",
+      "inStock": false,
+      "colors": [
+        "black",
+        "white",
+        "red",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Compass UOL",
+      "price": 60,
+      "images": [
+        "https://darkaesthetic.store/cdn/shop/files/Silence_Hood_Back.png?v=1721645187&width=823",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+        "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+      ],
+      "highlight": true,
+      "category": "Compass",
+      "inStock": true,
+      "colors": [
+        "black",
+        "white",
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "4151",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "8-Red-M",
+          "name": "Black XS",
+          "price": 49.99,
+          "quantity": 1,
+          "image": "https://cdn.vnda.com.br/dolcevitaperfumes/2021/12/18/15_12_0_083_BlackXSPacoRabanneEaudeToilettePerfumeMasculino100ml1.jpg?v=1639851660"
+        }
+      ],
+      "total": 60.979000000000006,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "861c",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "6-Black-L",
+          "name": "Sleek and Cozy Black",
+          "price": 14.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta6.png"
+        }
+      ],
+      "total": 22.479,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "dca3",
+      "userId": "user_2u8RWKhJ4H556q2nxOAOZeCdfJD",
+      "items": [
+        {
+          "productId": "4-Black-L",
+          "name": "UTRAANET Black",
+          "price": 19.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta5.png"
+        }
+      ],
+      "total": 27.978999999999996,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "5912",
+      "userId": "user_2u8RWKhJ4H556q2nxOAOZeCdfJD",
+      "items": [
+        {
+          "productId": "3-Red-M",
+          "name": "Essential Neutrals",
+          "price": 99.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta4.png"
+        }
+      ],
+      "total": 115.97899999999998,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "0a79",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "7-Black-L",
+          "name": "Raw Black Tees",
+          "price": 49.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta8.png"
+        }
+      ],
+      "total": 60.979000000000006,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "52f9",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "1-Black-M",
+          "name": "Classic Mono Tees",
+          "price": 35,
+          "quantity": 1,
+          "image": "/src/assets/camiseta1.png"
+        }
+      ],
+      "total": 44.49,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "2a64",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "2-Red-M",
+          "name": "Monochromatic Wardrobe",
+          "price": 59.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta2.png"
+        }
+      ],
+      "total": 71.979,
+      "status": "Completed",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "f2cb",
+      "userId": "user_2u9FoRFoHE1bBPJtwcwgeB0oBoK",
+      "items": [
+        {
+          "productId": "2-Red-M",
+          "name": "Monochromatic Wardrobe",
+          "price": 59.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta2.png"
+        }
+      ],
+      "total": 71.979,
+      "status": "Completed",
+      "date": "2025-03-11"
+    },
+    {
+      "id": "856b",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "1-Red-M",
+          "name": "Classic Mono Tees",
+          "price": 35,
+          "quantity": 1,
+          "image": "/src/assets/camiseta1.png"
+        }
+      ],
+      "total": 44.49,
+      "status": "Completed",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "8b37",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [],
+      "total": 5.99,
+      "status": "Completed",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "1c6d",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "3-Red-M",
+          "name": "Essential Neutrals",
+          "price": 99.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta3.png"
+        }
+      ],
+      "total": 115.97899999999998,
+      "status": "Completed",
+      "date": "2025-03-12"
+    },
+    {
+      "id": "6c5a",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "10-red-M",
+          "name": "Compass UOL",
+          "price": 60,
+          "quantity": 2,
+          "image": "/src/assets/compass-uol.png"
+        }
+      ],
+      "total": 137.99,
+      "status": "Completed",
+      "date": "2025-03-16"
+    },
+    {
+      "id": "aaa7",
+      "userId": "user_2u1je5nrLw0drRV4oUWqWhdgddz",
+      "items": [
+        {
+          "productId": "2-red-S",
+          "name": "Monochromatic Wardrobe",
+          "price": 59.99,
+          "quantity": 1,
+          "image": "/src/assets/camiseta2.png"
+        }
+      ],
+      "total": 71.979,
+      "status": "Completed",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "c1da",
+      "userId": "user_2urdksL84O23Gmjo4YnSb36LHVF",
+      "items": [
+        {
+          "productId": "10--S",
+          "name": "Compass UOL",
+          "price": 60,
+          "quantity": 1,
+          "image": "/src/assets/compass-uol.png"
+        }
+      ],
+      "total": 71.99,
+      "status": "Completed",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "0542",
+      "userId": "user_2uuPFVhcoJWEiozWJsX8hddrLtR",
+      "items": [
+        {
+          "productId": "10--S",
+          "name": "Compass UOL",
+          "price": 60,
+          "quantity": 1,
+          "image": "/src/assets/compass-uol.png"
+        }
+      ],
+      "total": 71.99,
+      "status": "Completed",
+      "date": "2025-03-27"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": "004c",
+      "email": "manurodrig00@gmail.com"
+    },
+    {
+      "id": "2fc5",
+      "email": "manu@gmail.com"
+    },
+    {
+      "id": "c437",
+      "email": "manu1@gmail.com"
+    },
+    {
+      "id": "9220",
+      "email": "ma@gmail.com"
+    },
+    {
+      "id": "92a9",
+      "email": "compass@gmail.com"
+    }
+  ],
+  "carts": [],
+  "wishlist": [
+    {
+      "id": "53d9",
+      "userId": "user_2u9FoRFoHE1bBPJtwcwgeB0oBoK",
+      "product": {
+        "id": "2",
+        "name": "Monochromatic Wardrobe",
+        "price": 59.99,
+        "images": [
+          "/src/assets/camiseta2.png",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+        ],
+        "highlight": false,
+        "category": "T-shirt",
+        "inStock": true,
+        "colors": [
+          "black",
+          "white",
+          "red",
+          "blue"
+        ],
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "date": "2025-03-11T22:32:37.079Z"
+    },
+    {
+      "id": "e685",
+      "userId": "user_2u9FoRFoHE1bBPJtwcwgeB0oBoK",
+      "product": {
+        "id": "3",
+        "name": "Essential Neutrals",
+        "price": 99.99,
+        "images": [
+          "/src/assets/camiseta3.png",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+        ],
+        "highlight": true,
+        "category": "T-shirt",
+        "inStock": true,
+        "colors": [
+          "black",
+          "white",
+          "red",
+          "blue"
+        ],
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "date": "2025-03-11T22:32:46.340Z"
+    },
+    {
+      "id": "aee9",
+      "userId": "user_2urdanLemBsQGHM48JQAjHyVbV7",
+      "product": {
+        "id": "1",
+        "name": "Classic Mono Tees",
+        "price": 35,
+        "images": [
+          "/src/assets/camiseta1.png",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko=",
+          "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="
+        ],
+        "highlight": true,
+        "category": "T-shirt",
+        "inStock": true,
+        "colors": [
+          "black",
+          "white",
+          "red",
+          "blue"
+        ],
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "date": "2025-03-27T17:08:33.565Z"
+    }
+  ]
+}

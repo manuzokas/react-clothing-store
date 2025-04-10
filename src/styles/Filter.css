@@ -1,0 +1,28 @@
+.custom-checkbox {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid black;
+  border-radius: 3px;
+  position: relative;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.custom-checkbox.checked {
+  background-color: black;
+}
+
+.custom-checkbox.checked::after {
+  content: "✔";
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 8px;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
