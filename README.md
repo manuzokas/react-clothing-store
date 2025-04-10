@@ -106,6 +106,10 @@ Este projeto consiste no desenvolvimento de um **E-commerce Web Responsivo** uti
   - Wishlist: Para exibição dos itens favoritados pelo usuário
   - Logout: Para deslogar o usuário
 
+## Aviso sobre Imagens
+As imagens utilizadas neste projeto são apenas para fins **educacionais/demonstrativos** (portfólio).  
+- Se você é o detentor dos direitos de alguma imagem e deseja sua remoção, entre em contato: [manuella.rodrigues.dev@gmail.com].
+
 ## 📂 Estrutura do Projeto
 ```
 /ecommerce-app
