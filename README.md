@@ -11,6 +11,14 @@ Este projeto consiste no desenvolvimento de um **E-commerce Web Responsivo** uti
 - **TailwindCSS** (para estilização responsiva)
 - **Fetch API** (para consumo de API)
 
+## 🛠️ Arquitetura  
+- **Gerenciamento de Estado**:  
+  - Carrinho: Redux Toolkit (com persistência no localStorage).  
+  - Tema: Context API (evitando renders desnecessários).  
+- **Performance**:  
+  - Lazy loading de rotas com `React.lazy`.  
+  - Imagens otimizadas com `loading="lazy"`.  
+  
 ## 📜 Funcionalidades Principais
 
 ### 1️⃣ **Header (Topo do Site)**
